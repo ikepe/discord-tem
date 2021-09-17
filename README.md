@@ -1,7 +1,8 @@
 # discord-tem
 
 ## 概要
-Switchbotの温湿度計から温度・湿度を取得する
+Discordのbot
+Switchbotの温湿度計から温度・湿度を取得し、返答する
 
 ## 内容
 #### やること
@@ -10,5 +11,11 @@ Switchbotのトークン、名前、Discord botのトークンを所定の場所
 !temで気温!humで湿度を取得する
 
 ## 問題点
-書き方が悪いのか値が変化しない
-そこは改善予定
+コードそのものの書き方がよろしくなさそうなので書き換え予定
+
+## 参考にしたサイト
+【SwitchBot】API を使って Python で湿温度計の操作をしてみた
+https://note.com/klayer123/n/nb71c579c1ffa
+
+誰でも作れる！Discord Bot（基礎編）
+https://note.com/exteoi/n/nf1c37cb26c41
